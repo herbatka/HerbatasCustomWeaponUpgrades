@@ -1,0 +1,41 @@
+416 vanilla upgrades:
+
+Buttstock:
+- Cheek Pad = GunM16_Upgrade_Stock_1
+
+Pistol grip:
+- Polymer handle
+- Individual adjustment
+
+Body:
+- Protective Spray for Return Mechanism
+- Tactical Foregrip (Attachment)
+
+Barrel:
+- Modified Gas Block Geometry
+- Barrel Lock
+- Return Mechanism Sleeve Tightener
+- Extra Barrel Rifling
+
+what i want to add:
+
+Buttstock:
+- Enhanced Buffer System = GunM16_Upgrade_Enchanced_Buffer_System
+
+Pistol grip:
+- Rubberized Grip
+
+Body:
+- High-End Trigger Assembly
+- Reinforced Upper Receiver
+- Precision Machined Fire Control Group
+- Anti-Rotation & Anti-Walk Pins
+- Enhanced Magazine Well Geometry
+- Corrosion-Resistant Internal Coatings
+
+Barrel and Handguard:
+- Cold Hammer-Forged Barrel
+- Nitride-Treated Bore
+- Refined Twist Rate and Rifling
+- Improved Thermal Management
+- Barrel Fluting
